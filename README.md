@@ -6,9 +6,9 @@ This repository contains a collection of practical exercises (TPs) on time serie
 
 The content so far : 
 
-- TP1
--- Generating gaussians
--- Using monte carlo method
+- TP1 :
+    - Generating gaussians
+    - Using monte carlo method
 
 ## Files
 
