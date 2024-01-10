@@ -1,7 +1,7 @@
 # Exercice : AR(3) avec un seul coefficient non nul
 
 # Définir le paramètre alpha et la taille de la série
-alpha <- 0.1 # Assurez-vous que |alpha| < 1
+alpha <- 1 # Assurez-vous que |alpha| < 1
 n <- 10000 # Nombre de points dans la série temporelle
 
 # Initialiser la série avec des zéros
